@@ -9,6 +9,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#10462](https://github.com/argoproj/argo-cd/pull/10462) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+2. 💪 Opened PR [#137](https://github.com/pepakriz/gitlab-merger-bot/pull/137) in [pepakriz/gitlab-merger-bot](https://github.com/pepakriz/gitlab-merger-bot)
+<!--END_SECTION:activity-->
 
 ---
 
